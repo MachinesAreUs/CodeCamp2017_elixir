@@ -7,7 +7,7 @@ See the [challenge](https://github.com/artesanosoft/CodeCamp2017/blob/master/CHA
 ## Usage
 
 ```
-$ mix desp.get
+$ mix deps.get
 ...
 
 $ mix run --no-halt
